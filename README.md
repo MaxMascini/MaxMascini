@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxMascini
-- 👀 I’m interested in all things neuroscience!
-- 🌱 I’m currently learning brain computer interfacing with machine learning
+- 👀 I’m a Undergraduate Neuroscience student at Dalhousie University.
+- 🌱 I'm currently finishing my honors project on brain computer interfacing using ERP/SSVEP signals and machine learning!
 - 📫 You can reach me at mascini.max@gmail.com
 
 <!---
