@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxMascini
-- 👀 I’m a Undergraduate Neuroscience student at Dalhousie University.
-- 🌱 I'm currently finishing my honors project on brain computer interfacing using ERP/SSVEP signals and machine learning!
+- 👀 I’m a recent Dalhousie Neuroscience Grad.
+- 🌱 I'm currently working as the NeuroTech Programming Specialist at Dalhousie's SURGE innovation!
 - 📫 You can reach me at mascini.max@gmail.com
 
 <!---
