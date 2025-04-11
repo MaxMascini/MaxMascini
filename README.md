@@ -4,7 +4,7 @@
 
 🧠 Currently working as a **Research Assistant** at [Dalhousie's Neurocognitive Imaging Lab](https://www.ncilab.ca/) and **NeuroTech Programming Specialist** at [Dalhousie’s SURGE Innovation](https://www.surgeinnovation.ca/)  
 
-💡 Curious coder and data tinkerer, driven by a love for brains, bytes, and building cool things
+💡 Curious coder and data tinkerer, driven by a love for brains, and building cool things
 
 📌 Always down to chat or collaborate — whether it’s about data, tech, neuroscience, HCI, or fun brain facts. Let’s build something cool!
 
