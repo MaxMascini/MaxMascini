@@ -6,22 +6,22 @@
 
 <!-- LinkedIn -->
   <a href="https://linkedin.com/in/MaxMascini" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Max%20Mascini-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Max%20Mascini-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
   </a>
 
 <!-- Email -->
   <a href="mailto:mascini.max@dal.ca" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-Mascini.max@dal.ca-D14836?logo=gmail&style=flat-square" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-Mascini.max@dal.ca-D14836?logo=gmail&style=flat-square" alt="Email Badge" />
   </a>
 
 <!-- Personal Website -->
   <a href="https://maxmascini.github.io/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Website-MaxMascini.github.io-00c194?logo=home-assistant&logoColor=white&style=flat-square" alt="Personal Website Badge"/>
+    <img src="https://img.shields.io/badge/Website-MaxMascini.github.io-00c194?logo=home-assistant&logoColor=white&style=flat-square" alt="Personal Website Badge" />
   </a>
 
 <!-- ORCID -->
   <a href="https://orcid.org/0000-0001-8561-0833" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/ORCID-0000--0001--8561--0833-f5" alt="ORCID Badge"/>
+    <img src="https://img.shields.io/badge/ORCID-0000--0001--8561--0833-f5" alt="ORCID Badge" />
   </a>
 
 
@@ -39,7 +39,7 @@
 
 </p>
 
-🧠 Currently working as a **Research Assistant** at [The Dalhousie NCILab](https://www.ncilab.ca/) and **NeuroTech Programming Specialist** at [Dalhousie’s SURGE Innovation](https://www.surgeinnovation.ca/)  
+🧠 Currently working as a **Research Assistant** at [Dalhousie's NCILab](https://www.ncilab.ca/) and **NeuroTech Programming Specialist** at [Dalhousie’s SURGE Innovation](https://www.surgeinnovation.ca/)  
 
 <!-- 💡 Passionate about data visualization, coding, and neuroscience
 Curious coder and data tinkerer, driven by a love for brains, and building cool things -->
