@@ -15,9 +15,11 @@
   </a>
 
 <!-- Personal Website -->
+<!--
   <a href="https://maxmascini.github.io/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Website-MaxMascini.github.io-00c194?logo=home-assistant&logoColor=white&style=flat-square" alt="Personal Website Badge" />
-  </a>
+  </a> 
+-->
 
 <!-- ORCID -->
   <a href="https://orcid.org/0000-0001-8561-0833" style="text-decoration:none;">
