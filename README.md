@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max Mascini</h1>
 
-<h3 align="center">Interested in the brain, code, cognition, and the space where they meet.</h3>
+<h3 align="center">Interested in human-AI interaction and cognitive neuroscience :) </h3>
 
 <p align="center">
 
