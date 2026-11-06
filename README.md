@@ -30,9 +30,9 @@
     <img src="https://img.shields.io/badge/Email-mascini.max@dal.ca-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://orcid.org/0000-0001-8561-0833">
+  <!-- <a href="https://orcid.org/0000-0001-8561-0833">
     <img src="https://img.shields.io/badge/ORCID-0000--0001--8561--0833-A6CE39?logo=orcid&style=for-the-badge&logoColor=white" alt="ORCID" />
-  </a>
+  </a> -->
   <!-- &nbsp;
   <a> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MaxMascini.MaxMascini" />
